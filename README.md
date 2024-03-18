@@ -10,13 +10,13 @@ Lately, I've been particularly interested in electron apps programming.
 - Databases: SQL
 - Tools: Git, Docker, Jenkins
 
-<!--## 👀 Checkout Ignit
+## 👀 Checkout FoxCode
 
-[Igni](https://github.com/Lukylix/Igni) is an Open-source interactive shutdown timer.
+[FoxCode]([https://github.com/Lukylix/Igni](https://github.com/FoxyIsCoding/FoxCode)) is an Open-source modern but minimal code editor
 
-<img src="https://github.com/Lukylix/Igni/blob/master/screenshot.png?raw=true" alt="Igni Screenshot" width="150px">
+![UI](https://raw.githubusercontent.com/Haeri/monolith-code/master/docs/res/img/screenshot.png)
 
-## 🙌 Open for Collaboration
+<!-- ## 🙌 Open for Collaboration
 
 I'm open to collaborating on [Igni](https://github.com/Lukylix/Igni) project or any other projects where I can make meaningful contributions. Let's get in touch!
 
