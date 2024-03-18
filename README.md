@@ -12,9 +12,7 @@ Lately, I've been particularly interested in electron apps programming.
 
 ## 👀 Checkout FoxCode
 
-[FoxCode]([https://github.com/Lukylix/Igni](https://github.com/FoxyIsCoding/FoxCode)) is an Open-source modern but minimal code editor
-
-![UI](https://raw.githubusercontent.com/Haeri/monolith-code/master/docs/res/img/screenshot.png)
+ [FoxCode](https://github.com/FoxyIsCoding/FoxCode) is an Open-source modern but minimal code editor
 
 <!-- ## 🙌 Open for Collaboration
 
