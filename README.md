@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate developper with a love for learning and exploring new technologies.<br>Lately, I've been particularly interested in Java and C#.<br><br>📂• Working on: Startup<br>👥• Colaboration with: ZS Sokolnice
+I'm a passionate developper with a love for learning and exploring new technologies.<br>Lately, I've been particularly interested in Java and C#.<br><br>📂• Working on: Evently<br>👥• Colaboration with: ZS Sokolnice
 
 
 ## 🌐 Socials:
