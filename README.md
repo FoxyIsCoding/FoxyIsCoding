@@ -11,9 +11,11 @@
   <br>
   <br>
 
-  **Website:** https://foxyk.xyz/
+  **Website:** WIP
 
-  **Email:** maty@foxyk.xyz <br><br>
-[![Foxys's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=foxyiscoding&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Foxys's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=foxyiscoding&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+  **Email:** matej.bielik@proton.me <br><br>
 </div>
+
+<p align="center">
+  <img src="https://count.getloli.com/@rawnullbyte?name=foxyiscoding&theme=rule34&padding=2&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="Profile views" />
+</p>
