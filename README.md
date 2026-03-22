@@ -13,9 +13,24 @@
 
   **Website:** WIP
 
-  **Email:** matej.bielik@proton.me <br><br>
-</div>
+  **Email:** matej.bielik@proton.me <br>
 
+  #
+  
+  <br>
+</div> 
+
+
+
+
+<div align="center">
+  
+  [![Website](https://img.shields.io/badge/Website-1F1410?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://foxyk.xyz/)
+  [![Discord](https://img.shields.io/badge/Discord-161B33?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/830732127984549929)
+  [![Telegram](https://img.shields.io/badge/Telegram-0F1E24?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/foxyyk69)
+  [![Company](https://img.shields.io/badge/Company-111827?style=for-the-badge&logo=jinja&logoColor=white)](https://1ani.me/)
+
+</div>
 <p align="center">
   <img src="https://count.getloli.com/@rawnullbyte?name=foxyiscoding&theme=rule34&padding=2&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="Profile views" />
 </p>
