@@ -32,5 +32,5 @@
 
 </div>
 <p align="center">
-  <img src="https://count.getloli.com/@rawnullbyte?name=foxyiscoding&theme=rule34&padding=2&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="Profile views" />
+  <img src="https://count.getloli.com/@foxyiscoding?name=foxyiscoding&theme=rule34&padding=2&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="Profile views" />
 </p>
